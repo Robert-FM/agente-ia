@@ -104,7 +104,7 @@ Crie um arquivo `.env` na raiz do projeto:
 
 ```env
 OPENROUTER_API_KEY=sua_api_key
-link=https://openrouter.ai/api/v1
+link=link
 ```
 
 ---
