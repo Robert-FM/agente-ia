@@ -51,7 +51,7 @@ AGENTE-IA/
 ### 1️⃣ Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/agente-ia.git
+git clone https://github.com/Robert-FMo/agente-ia.git
 ```
 
 ---
@@ -183,5 +183,5 @@ Este projeto está sob a licença MIT.
 
 Robert Melo
 
-🔗 LinkedIn: https://linkedin.com  
+🔗 LinkedIn: https://www.linkedin.com/in/robertdemelo/ 
 🐍 Python | IA | Machine Learning | LangChain | Data Science
