@@ -103,8 +103,8 @@ pip install -r requirements.txt
 Crie um arquivo `.env` na raiz do projeto:
 
 ```env
-OPENROUTER_API_KEY=sua_api_key
-link=link
+api_key=api_key,
+base_url=base_url
 ```
 
 ---
